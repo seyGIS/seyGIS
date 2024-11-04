@@ -1,0 +1,7 @@
+My bio :
+
+![](Biography_seydina_en.pdf){width=100% height=1000px}
+
+My cv :
+
+![](cv_seydina.pdf){width=100% height=1000px}
