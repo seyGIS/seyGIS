@@ -4,15 +4,12 @@ image: SILF_.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/seydina-issa-laye-fall-68847919b/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/seyGIS
 ---
 
 Geographer specialized in Geographic Information Systems (GIS) with expertise in the analysis of territories, environment, populations, and health. Significant experience in public health programs and disease control, particularly malaria, with proficiency in GIS software for the collection, analysis, and visualization of geospatial data. Strong skills in data management and spatial analysis to support socially and environmentally impactful projects..
