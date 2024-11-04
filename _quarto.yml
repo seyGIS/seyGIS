@@ -3,7 +3,7 @@ project:
   output-dir: "docs"
 
 website:
-  title: "blogpro"
+  title: "Seydina Issa Laye FALL"
   navbar:
     left: 
       - text: " Home" 
